@@ -1,0 +1,23 @@
+{
+  "name": "theessenceoflotus",
+  "version": "1.0.0",
+  "description": "Initialization",
+  "keywords": [
+    "Lotus"
+  ],
+  "homepage": "https://github.com/theessenceoflotus26/TheEssenceOfLotus#readme",
+  "bugs": {
+    "url": "https://github.com/theessenceoflotus26/TheEssenceOfLotus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theessenceoflotus26/TheEssenceOfLotus.git"
+  },
+  "license": "ISC",
+  "author": "TheEssenceOfLotus",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
